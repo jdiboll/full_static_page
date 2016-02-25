@@ -1,0 +1,55 @@
+body {
+	margin-top: 2px;
+	margin-left: 2px;
+}
+.header {
+	float:left;
+	height: 20px;
+	width: 100%;
+	color: #f47835;
+	background-color: #f47835;
+	padding-left: 50px;
+}
+span {
+	background-color: #f47835;
+	color: #ffffff;
+	padding-right: 15px;
+	position: relative;
+	font-size: 11px;
+}
+button {
+	background-color: #d06822;
+	border-radius: 25px; 
+	color: #ffffff;
+	border: none;
+	font-size: 11px;
+	padding-right: 6px;
+}
+.skinny {
+	display: inline-block;
+	float: left;
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+}
+.skinny img {
+	padding-right: 60px;
+	padding-top: 15px;
+	height: 90px;
+	width: 90px;
+	float: left;
+}
+p {
+	font-size: 18px;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	margin: 0;
+	float: left;
+	padding-top: 40px;
+}
+.ridges{
+	position: relative;
+
+}
