@@ -1,6 +1,7 @@
 body {
 	margin-top: 2px;
 	margin-left: 2px;
+	font-family: 'Signika Negative', sans-serif;
 }
 .header {
 	float:left;
@@ -10,7 +11,7 @@ body {
 	background-color: #f47835;
 	padding-left: 50px;
 }
-span {
+.header span {
 	background-color: #f47835;
 	color: #ffffff;
 	padding-right: 15px;
@@ -49,7 +50,23 @@ p {
 	float: left;
 	padding-top: 40px;
 }
-.ridges{
+.ridges img {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 0;
+	height: 2px;
+	width: 100%;
+}
+.ties {
 	position: relative;
-
+}
+.ties img{
+	height: 220px;
+	margin-left: :40px;
+}
+.ties span {
+	font-size: 40px;
+	height: 100px;
+	width: 200px;
 }
